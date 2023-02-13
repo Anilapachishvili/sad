@@ -1,0 +1,522 @@
+body{
+    background-color: white;
+}
+.flex{
+    display: flex;
+   flex-direction: row;
+   gap: 80px;
+   margin-left: 50px;
+}
+li{
+    list-style: none;
+}
+.cmp{
+    width: 87px;
+    height: 48px;
+    color: #333333;
+    font-size: 40px;
+    font-family: "HindSiliguri-Bold";
+}
+.about{
+    width: 50px;
+    height: 48px;
+    margin-top: 10px;
+    font-family: "WorkSans-Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.portfolio{
+    width: 50px;
+    height: 48px;
+    margin-top: 10px;
+    font-family: "WorkSans-Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.service{
+    width: 50px;
+    height: 48px;
+    margin-top: 10px;
+    font-family: "WorkSans-Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.bog{
+    width: 50px;
+    height: 48px;
+    margin-top: 10px;
+    font-family: "WorkSans-Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.contact{
+    width: 50px;
+    height: 20px;
+    margin-top: 10px;
+    font-family: "WorkSans-Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.company{
+    color: red;
+    list-style-type: circle;
+    height: 0px;
+
+}
+.maintext h1{
+      width: 333px;
+      height: 30px;
+      color: #333333;
+      font-family: "HindSiliguri-Bold";
+      font-size: 72px;
+      font-weight: 400;
+      line-height: 80px;
+      letter-spacing: -1px;
+}
+.maintext h2{
+    width: 333px;
+    height: 50px;
+    color: #2a6801;
+    font-family: "HindSiliguri-Bold";
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: -1px;
+}
+.sky{
+    width: 470px;
+    height: 10px;
+    color: #333333;
+    font-family: "WorkSans-Regular";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.secondflex{
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.rectangle{
+    margin-top: 130px;
+    width: 180px;
+    height: 40px;
+    border: 6px;
+    background-color: #f07566;
+    background-blend-mode: normal;
+    border-radius: 5px;
+    margin-left: 5px;
+    color: white;
+}
+.rectangle li {
+    list-style: none;
+}
+.redRectangle{
+    position: absolute;
+    left: 1250px;
+    top: 310px;
+    width: 132px;
+    height: 184px;
+}
+.yellowpng{
+    position: absolute;
+    left: 880px;
+    top: 120px;
+    width: 462px;
+    height: 541px;
+}
+.graph{
+    position: absolute;
+    left: 830px;
+    top: 560px;
+    width: 250px;
+    height: 200px;
+}
+.icon{
+   position: absolute;
+   left: 820px;
+   top: 260px;
+   width: 100px;
+   height: 100px;
+
+}
+
+.contactbutton li{
+     width: 86px;
+     height: 19px;
+     color: #f07566;
+     font-family: "HindSiliguri-Bold";
+     font-size: 16px;
+     font-weight: 400;
+     text-align: center;
+     text-transform: uppercase;
+     letter-spacing: 1px;
+}
+.contactbutton {
+    display: flex;
+   justify-content: end;
+   margin-top: -640px;
+   margin-right: 150px;
+} 
+.yelllowwRectangle{
+    position: absolute;
+    left: 169px;
+    top: 1010px;
+    width: 482px;
+    height: 326px;
+}
+.redpng{
+     position: absolute;
+     left: 155px;
+     top: 1190px;
+     height: 160px;
+     width: 132px;
+}
+.graypic{
+    position: absolute;
+    left: 185px;
+    top:900px;
+    width: 520px;
+    height: 420px;
+}
+.greenpng{
+   position: absolute;
+   top: 999px;
+   left: 135px;
+   width: 100px;
+   height: 100px;
+}
+.chart{
+   position: absolute;
+   left: 580px;
+   top: 1230px;
+   width: 200px;
+   height:200px;
+}
+.fleex{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1090px;
+    margin-top: 680px;
+}
+.aboutword li{
+   list-style-type: circle;
+   color: red;
+   height: 0px;
+}
+.Business h3{
+     width: 354px;
+     height: 80px;
+     color:#333333;
+     font-family: "HindSiliguri-Bold";
+     font-size: 56px;
+     font-weight: 400;
+     line-height: 64px;
+     letter-spacing: -1px;
+}
+.customers{
+      opacity: 0.90000004;
+      width: 357px;
+      height: 80px;
+      color: #333333;
+      font-family: "HindSiliguri-Bold";
+      font-size: 24px ;
+      font-weight: 400 ;
+      line-height: 32px;
+}
+.text li{
+    width: 284px;
+    height: 32px;
+    color: #333333;
+    font-family: "WorkSans-Regular";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    list-style-image: url(./images/Shape.png);
+}
+.learnmore{
+    box-sizing: border-box;
+    background-color: #f07566;
+    border-radius: 5px;
+    width: 200px;
+    color: white;
+}
+.firstbox{
+    width: 270px;
+    height: 368px;
+    border: 1px solid #9a9b9d;
+    
+}
+.secondbox{
+    width: 270px;
+    height: 368px;
+    border: 1px solid #9a9b9d;
+}
+.thirdbox{
+    width: 270px;
+    height: 368px;
+    border: 1px solid #9a9b9d;
+}
+.fourthbox{
+    width: 270px;
+    height: 368px;
+    border: 1px solid #9a9b9d;
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 300px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.income{
+    width: 64px;
+    height: 64px;
+}
+.Consulting{
+    width: 117px;
+    height: 50px;
+    color: #333333;
+    font-family: "Hinde Siliguri";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+}
+.dark{
+    width: 206px;
+    height: 99px;
+    color: rgb(51, 51, 51,0.5);
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.secondcolumn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+    margin-left: 20px;
+
+}
+.lampicone{
+    width: 64px;
+    height: 64px;
+
+}
+.planning{
+    width: 95px;
+    height: 50px;
+    color: #333333;
+    font-family: "Hind Silliguri";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+ 
+}
+.atmosphere{
+     width: 206px;
+     height: 99px;
+    color: rgb(51, 51, 51,0.5);
+    font-family: "Work Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.thirdcolumn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.mindpng{
+    height: 64px;
+    width: 64px;
+}
+.support{
+    width: 87px;
+    height: 0px;
+    font-family: "Hind Silliguri";
+    font-size: 24px;
+    
+    line-height: 32px;
+}
+.illusion{
+    width: 206px;
+    height: 0px;
+   color: rgb(51, 51, 51,0.5);
+   font-family: "Work Sans";
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 32px;
+}
+.fourthcolumn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+.arrowpng{
+     width: 64px;
+     height: 64px;
+
+}
+.cooperation{
+  width: 134px;
+  height: 0px;
+  color: #333333;
+  font-family: "Hind Silliguri";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+
+}
+.spectator{
+    width: 206px;
+    height: 0px;
+   color: rgb(51, 51, 51,0.5);
+   font-family: "Work Sans";
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 32px;
+
+}
+.firstbox:hover{
+    transform: scale(1.2);
+    z-index: 2;
+
+
+}
+.secondbox:hover{
+transform: scale(1.2);
+z-index: 2;
+
+}
+.thirdbox:hover{
+transform: scale(1.2);
+z-index: 2;
+
+}
+.fourthbox{
+    transform: scale(1.2);
+    z-index: 2;
+}
+.teext li{
+    list-style-type: circle;
+    color: red;
+    height: 0px;
+}
+.complex{
+       width: 387px;
+       height: 230px;
+       color: #333333;
+       font-family: "Hind Silliguri";
+       font-size: 56px;
+       font-weight: 700;
+       line-height: 64px;
+       letter-spacing: -1px;
+
+}
+.smalltext{
+     width: 470px;
+     height: 96px;
+     color: #333333;
+     font-family: "Work Sans";
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 32px;
+
+
+}
+.displayflex{
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-left: 95px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.starpng{
+    width: 24px;
+    height: 23px;
+    margin-top: 30px;
+}
+.whitebox{
+    width: 470px;
+    height: 144px;
+    border-radius: 8px;
+    background-color: #ffffffff;
+    background-blend-mode: normal;
+    box-shadow: 0px 24px 48px;
+    color: rgb(0,17,86,0.08);
+    margin-top: 50px;
+
+}
+.Technology{
+       width: 217px;
+       height: 32px;
+       color: #333333;
+       font-family: "Hind Silliguri";
+       font-size: 24px;
+       font-weight: 700;
+       line-height: 32px;
+       margin-left: 10px;
+} 
+.sublime{
+        width: 406px;
+        height: 55px;
+        color: rgb(51,51,51,0.5);
+        font-family: "Work Sans";
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+
+}
+.color{
+    position: absolute;
+    left: 1300px;
+    top: 2370px;
+    width: 173px;
+    height: 439px;
+}
+.red{
+    position: absolute;
+    left: 1265px;
+    top: 2300px;
+    width: 216px;
+    height: 128px;
+}
+.graypng{
+    position: absolute;
+    left: 990px;
+    top: 2340px;
+    width: 462px;
+    height: 480px;
+}
+.graphpng{
+    position: absolute;
+    left: 1000px;
+    top: 2700px;
+  
+}
+.green{
+    position: absolute;
+    left: 900px;
+    top: 2400px;
+
+}
